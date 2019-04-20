@@ -1,5 +1,5 @@
 # ChiMi #
-MIUI扩展插件（xposed）
+MIUI扩展插件（停更）
 
 功能如下图：
 ![image](img/1.png)
