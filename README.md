@@ -14,9 +14,9 @@ MIUI扩展插件（EdXposed/TaiChi）
 
 
 功能如下图：
-![image](img/1.png)
+![image](img/1.jpg)
 ![image](img/2.png)
-![image](img/3.png)
-![image](img/4.png)
+![image](img/3.jpg)
+![image](img/4.jpg)
 ![image](img/5.png)
-![image](img/6.png)
+![image](img/6.jpg)
