@@ -3,7 +3,11 @@ MIUI扩展插件（LSPosed）
 
 修改MIUI系统的MIUI增强插件
 
-最新版V5版本只适用于MIUI13
+最新版 V5版本只适用于MIUI13
+
+MIUI13 xposed enhancement extension plugin
+
+---------
 
 失效的可以尝试
 ▲①用LSPosed优化应用（如状态栏功能部分失效，LSPosed作用域中长按系统界面选择优化） 
