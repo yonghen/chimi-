@@ -8,7 +8,7 @@
 
 ## 模块说明 
 
-MIUI增强扩展插件 LSPosed/Xposed）
+MIUI增强扩展模块 LSPosed/Xposed）
 最新版 V5版本只适用于MIUI13
 
 ## 模块功能
