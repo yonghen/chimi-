@@ -31,6 +31,10 @@ MIUI增强扩展模块 (LSPosed/Xposed）
 - 清除ChiMi数据，或者重装ChiMi.
 - MIUI版本不适配
 
+## 已知bug：
+- 锁屏时间样式选择第四个，添加闹钟失效
+- 锁屏步数位置2失效
+- MTK部分机型开启音阶修改无声
 
 ## 模块截图（旧）：
 ![image](img/1.jpg)
