@@ -4,11 +4,11 @@
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/yonghen/chimi-?label=version)
 ![GitHub all releases](https://img.shields.io/github/downloads/yonghen/chimi-/total)
 
-----
+[English](https://github.com/yonghen/chimi-/README_EN.md)  丨 简体中文</b>
 
 ## 模块说明 
 
-MIUI增强扩展模块 LSPosed/Xposed）
+MIUI增强扩展模块 (LSPosed/Xposed）
 最新版 V5版本只适用于MIUI13
 
 ## 模块功能
