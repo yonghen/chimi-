@@ -26,9 +26,9 @@ For more functions, please check the changelog log and download
 
 
 ## Unavailable
-- Disable Xposed and Magisk modules that may conflict.\n
-- Re add application and re tick module.\n
-- Clear ChiMi data or reinstall ChiMi.\n
+- Disable Xposed and Magisk modules that may conflict.
+- Re add application and re tick module.
+- Clear ChiMi data or reinstall ChiMi.
 - MIUI version mismatch
 
 
