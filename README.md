@@ -4,7 +4,7 @@
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/yonghen/chimi-?label=version)
 ![GitHub all releases](https://img.shields.io/github/downloads/yonghen/chimi-/total)
 
-[English](https://github.com/yonghen/chimi-/README_EN.md)  丨 简体中文</b>
+[English](https://github.com/yonghen/chimi-/blob/master/README_EN.md)  丨 简体中文</b>
 
 ## 模块说明 
 
