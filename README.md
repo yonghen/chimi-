@@ -1,34 +1,38 @@
-# ChiMi #
-MIUI扩展插件（LSPosed）
+# ChiMi
+![Xposed](https://img.shields.io/badge/-Xposed-green?style=flat&logo=Android&logoColor=white)
+![GitHub Repo stars](https://img.shields.io/github/stars/yonghen/chimi-)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/yonghen/chimi-?label=version)
+![GitHub all releases](https://img.shields.io/github/downloads/yonghen/chimi-/total)
 
-修改MIUI系统的MIUI增强插件
+----
 
+## 模块说明 
+
+MIUI增强扩展插件 LSPosed/Xposed）
 最新版 V5版本只适用于MIUI13
 
-MIUI13 xposed enhancement extension plugin
+## 模块功能
+- 修改系统界面
+- 修改Android系统
+- 手机管家
 
----------
-
-失效的可以尝试
-▲①用LSPosed优化应用（如状态栏功能部分失效，LSPosed作用域中长按系统界面选择优化） 
-
-②重新添加应用和重新勾选模块！
-
-③清除ChiMi数据或者重装ChiMi
+查看更新日志和下载使用发现更多功能
 
 
-④停用可能起冲突的Xposed模块和Magisk模块（比如修改系统或者系统界面的Xposed/Magisk模块；停用/删除magisk模块后需要删除/data/system/package-cache/里对应文件）
-
-更多细节写在使用说明中
-
-如果按照软件内说明的操作过后还是不行的可以提交issue。
-
-更新后最好重新勾选并重启，避免出现未知bug。
+## 使用方法
+- 在Xposed管理器(LSPosed)中激活模块
+- 作用域勾选推荐应用
+- 重启目标应用或者重启手机
 
 
+## 无法使用
+- 停用可能起冲突的Xposed模块和Magisk模块.
+- 重新添加应用和重新勾选模块.
+- 清除ChiMi数据，或者重装ChiMi.
+- MIUI版本不适配
 
 
-功能如下图：
+## 模块截图（旧）：
 ![image](img/1.jpg)
 ![image](img/2.png)
 ![image](img/3.jpg)
