@@ -1,5 +1,4 @@
 # ChiMi
-![Xposed](https://img.shields.io/badge/-Xposed-green?style=flat&logo=Android&logoColor=white)
 [![GitHub Repo stars](https://img.shields.io/github/stars/yonghen/chimi-)](https://github.com/yonghen/chimi-)
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/yonghen/chimi-?label=version)](https://github.com/yonghen/chimi-/releases)
 [![GitHub all releases](https://img.shields.io/github/downloads/yonghen/chimi-/total)](https://github.com/yonghen/chimi-/releases)
