@@ -29,7 +29,7 @@ For more functions, please check the changelog log and download
 - Disable Xposed and Magisk modules that may conflict.
 - Re add application and re tick module.
 - Clear ChiMi data or reinstall ChiMi.
-- MIUI version mismatch
+- MIUI version mismatch.
 
 
 ## Module Screenshot (Old)：
