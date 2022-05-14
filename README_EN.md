@@ -22,6 +22,7 @@ For more functions, please check the changelog log and download
 - Activate the module in the Xposed Manager (LSPosed)
 - Scope tick recommended app
 - Restart the target app or Reboot the phone
+- If the function fails suddenly, please clear the ChiMi data and restarting the target application or reboot the phone.
 
 
 ## Unavailable
