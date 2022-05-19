@@ -67,4 +67,4 @@ MIUI增强扩展模块 (LSPosed/Xposed）
 - MTK部分机型开启音阶修改无声
 
 ## 模块截图：
-![image](doc/imgCn.png)
+![image](https://github.com/yonghen/chimi-/raw/master/doc/imgCn.png)
