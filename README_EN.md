@@ -11,9 +11,40 @@ MIUI enhancement extension module (LSPosed/Xposed）
 V5 version is only applicable to android12 miui13 
 
 ## Module Function
-- SystemUI Enhancement
-- Android Enhancement
-- Security Enhancement
+<details>
+<summary>SystemUI Enhancement(Tap for details)</summary>
+
+  - Status Bar Hide Icon And View (Hide airplane、signal、mute、vibrate、battery、VPN... icons)
+  - Status Bar Layout (Clock right,Clock center, Signal left+clock center)
+  - Status Bar Display Weather、Temperature、Current
+  - Status Bar Clock Custom (Display year month day week seconds)
+  - Status Bar Double NetworkSpeed
+  - MIX Alpha Charge Style
+  - Lock Screen Display Steps
+  - Lock Screen Display Alarm Clock
+  
+ ...
+</details>
+
+<details>
+<summary>Android Enhancement(Tap for details)</summary>
+
+  - Notification volume split
+  - Volume button long press control custom during screen off
+  - Remove untrusted touches.For example,the toast of the non use application that pops up when using the application will block the touch event.Turned on it will no be blocked
+  
+ ...
+</details>
+
+<details>
+<summary>Security Enhancement(Tap for details)</summary>
+
+  - Remove open app confirmation popup
+  - Skip waiting time
+  - Score lock 100
+  
+ ...
+</details>
 
 For more functions, please check the changelog log and download
 
