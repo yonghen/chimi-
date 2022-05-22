@@ -62,6 +62,8 @@ For more functions, please check the changelog log and download
 - Clear ChiMi data or reinstall ChiMi.
 - MIUI version mismatch.
 
+## Known bugs
+- MTK phone turn on customize volume steps will silent
 
 ## Module Screenshot：
 ![image](https://github.com/yonghen/chimi-/raw/master/doc/imgEn.png)
