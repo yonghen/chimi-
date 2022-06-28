@@ -8,7 +8,7 @@ English 丨 [简体中文](https://github.com/yonghen/chimi-/blob/master/README.
 ## Module Description 
 
 MIUI enhancement extension module (LSPosed/Xposed）
-V5 version is only applicable to android12 miui13 
+V5 version is only applicable to MIUI13 based on Android12
 
 ## Module Function
 <details>
