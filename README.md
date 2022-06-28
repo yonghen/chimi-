@@ -8,9 +8,19 @@
 ## 模块说明 
 
 MIUI增强扩展模块 (LSPosed/Xposed）
-最新版 V5版本只适用于MIUI13
+最新版 V5版本只适用于基于Android12的MIUI13
 
 ## 模块功能
+
+<details>
+  <summary>系统桌面增强(点击查看详情)</summary>
+  
+  - 桌面布局解锁
+  - 桌面双击息屏
+  - 自动关闭文件夹
+  - 文件夹列数设置
+</details>
+
 <details>
 <summary>系统界面增强(点击查看详情)</summary>
 
