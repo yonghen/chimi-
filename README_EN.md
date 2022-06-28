@@ -12,6 +12,15 @@ V5 version is only applicable to android12 miui13
 
 ## Module Function
 <details>
+<summary>SystemLauncher Enhancement(Tap for details)</summary>
+
+  - Desktop layout unlock
+  - Desktop double tap to sleep
+  - Automatically close folders after opening apps
+  - Desktop folder columns
+</details>
+
+<details>
 <summary>SystemUI Enhancement(Tap for details)</summary>
 
   - Status Bar Hide Icon And View (Hide airplane、signal、mute、vibrate、battery、VPN... icons)
