@@ -8,7 +8,7 @@
 ## 模块说明 
 
 MIUI增强扩展模块 (LSPosed/Xposed）
-最新版 V5版本只适用于基于Android12的MIUI13
+最新版 V5.12.23版本只适用于基于Android13的MIUI14
 
 ## 模块功能
 
